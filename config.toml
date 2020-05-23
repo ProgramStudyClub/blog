@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://programstudyclub.github.io/blog/"
 title = "Program Study Club"
 languageCode = "zh"
 hasCJKLanguage = false
